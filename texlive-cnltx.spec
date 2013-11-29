@@ -1,11 +1,11 @@
-# revision 31854
+# revision 32212
 # category Package
 # catalog-ctan /macros/latex/contrib/cnltx
-# catalog-date 2013-10-05 00:57:38 +0200
+# catalog-date 2013-11-22 18:02:28 +0100
 # catalog-license lppl1.3
-# catalog-version 0.7a
+# catalog-version 0.9
 Name:		texlive-cnltx
-Version:	0.7a
+Version:	0.90
 Release:	1
 Summary:	LaTeX tools and documenting facilities
 Group:		Publishing
@@ -51,6 +51,7 @@ makeindex directory.
 %{_texmfdistdir}/tex/latex/cnltx/cnltx.bbx
 %{_texmfdistdir}/tex/latex/cnltx/cnltx.cbx
 %{_texmfdistdir}/tex/latex/cnltx/cnltx.dbx
+%{_texmfdistdir}/tex/latex/cnltx/cnltx.sty
 %doc %{_texmfdistdir}/doc/latex/cnltx/README
 %doc %{_texmfdistdir}/doc/latex/cnltx/cnltx_en.pdf
 %doc %{_texmfdistdir}/doc/latex/cnltx/cnltx_en.tex
