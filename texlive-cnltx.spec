@@ -1,4 +1,4 @@
-# revision 32212
+# revision 32583
 # category Package
 # catalog-ctan /macros/latex/contrib/cnltx
 # catalog-date 2013-11-22 18:02:28 +0100
@@ -6,7 +6,7 @@
 # catalog-version 0.9
 Name:		texlive-cnltx
 Version:	0.90
-Release:	5
+Release:	6
 Summary:	LaTeX tools and documenting facilities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cnltx
