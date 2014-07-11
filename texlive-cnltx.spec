@@ -6,7 +6,7 @@
 # catalog-version 0.9
 Name:		texlive-cnltx
 Version:	0.90
-Release:	7
+Release:	8
 Summary:	LaTeX tools and documenting facilities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cnltx
