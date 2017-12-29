@@ -1,12 +1,6 @@
-# revision 32583
-# category Package
-# catalog-ctan /macros/latex/contrib/cnltx
-# catalog-date 2013-11-22 18:02:28 +0100
-# catalog-license lppl1.3
-# catalog-version 0.9
 Name:		texlive-cnltx
-Version:	0.90
-Release:	10
+Version:	0.13
+Release:	1
 Summary:	LaTeX tools and documenting facilities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cnltx
@@ -41,20 +35,10 @@ makeindex directory.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/bibtex/bib/cnltx/cnltx.bib
-%{_texmfdistdir}/makeindex/cnltx/cnltx.ist
-%{_texmfdistdir}/tex/latex/cnltx/cnltx-base.sty
-%{_texmfdistdir}/tex/latex/cnltx/cnltx-doc.cls
-%{_texmfdistdir}/tex/latex/cnltx/cnltx-example.sty
-%{_texmfdistdir}/tex/latex/cnltx/cnltx-listings.sty
-%{_texmfdistdir}/tex/latex/cnltx/cnltx-tools.sty
-%{_texmfdistdir}/tex/latex/cnltx/cnltx.bbx
-%{_texmfdistdir}/tex/latex/cnltx/cnltx.cbx
-%{_texmfdistdir}/tex/latex/cnltx/cnltx.dbx
-%{_texmfdistdir}/tex/latex/cnltx/cnltx.sty
-%doc %{_texmfdistdir}/doc/latex/cnltx/README
-%doc %{_texmfdistdir}/doc/latex/cnltx/cnltx_en.pdf
-%doc %{_texmfdistdir}/doc/latex/cnltx/cnltx_en.tex
+%{_texmfdistdir}/bibtex/bib/cnltx
+%{_texmfdistdir}/makeindex/cnltx
+%{_texmfdistdir}/tex/latex/cnltx
+%doc %{_texmfdistdir}/doc/latex/cnltx
 
 #-----------------------------------------------------------------------
 %prep
