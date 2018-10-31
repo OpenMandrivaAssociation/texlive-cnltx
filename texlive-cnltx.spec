@@ -1,6 +1,6 @@
 Name:		texlive-cnltx
 Version:	0.13
-Release:	1
+Release:	2
 Summary:	LaTeX tools and documenting facilities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cnltx
