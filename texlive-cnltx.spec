@@ -3,7 +3,7 @@ Version:	55265
 Release:	2
 Summary:	LaTeX tools and documenting facilities
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cnltx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cnltx
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cnltx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cnltx.doc.r%{version}.tar.xz
